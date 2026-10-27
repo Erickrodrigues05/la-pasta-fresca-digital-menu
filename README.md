@@ -13,18 +13,21 @@ Digital menu and ordering prototype for La Pasta Fresca, an artisan pasta restau
 ## Highlights
 
 - **Three entry points:** order at the table, take home, or book a table.
-- **Menu with photos** and fresh pasta sold by weight.
+- **Menu with photos** and filters by category.
+- **Fresh pasta by weight:** reserved at the counter, picked up or delivered.
 - **Custom visual identity:** brand illustration, serif typography and a warm palette.
 
-## Screenshots
+## Mobile
 
-| Desktop | Mobile | Menu (desktop) |
-|---|---|---|
-| <img src="screenshots/desktop.png" width="520"> | <img src="screenshots/mobile.png" width="200"> | <img src="screenshots/desktop-menu.png" width="200"> |
+<img src="screenshots/mobile.png" alt="La Pasta Fresca · Digital Menu Prototype mobile screens" width="100%">
+
+## Desktop
+
+<img src="screenshots/desktop.png" alt="La Pasta Fresca · Digital Menu Prototype desktop" width="100%">
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
 ## My role
 
@@ -36,4 +39,8 @@ The source code is private because it belongs to the client. I am happy to walk 
 
 ---
 
-Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · erickrodrigues781@gmail.com
+<div align="center">
+
+Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · [erickrodrigues781@gmail.com](mailto:erickrodrigues781@gmail.com)
+
+</div>
